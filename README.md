@@ -1,12 +1,12 @@
 <html>
 <head>
-  <title>Ollie Bike Sharing</title>
+ 
   <meta charset="utf-8"/>
   <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-  <h1>Ollie Bike Sharing</h1>
-  <h3>Share Your Pedals with the World.</h3>
+  <h1>Demonlized</h1>
+  <h3>welcome to the cloud</h3>
   <p>Need a set of wheels while you're in town? Use Ollie to pair your perfect vacation with a stylish, affordable bike rental. Here is a <a href="cities.html">list</a> of cities where you can find us.</p>
 
 </body>
